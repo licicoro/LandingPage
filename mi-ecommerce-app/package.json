@@ -1,0 +1,33 @@
+{
+  "name": "mi-ecommerce-app",
+  "version": "1.0.0",
+  "description": "A simple e-commerce application built with React and TypeScript.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [
+    "ecommerce",
+    "react",
+    "typescript"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-player": "^3.3.3",
+    "react-router-dom": "^7.9.5",
+    "vite": "^7.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^5.1.0",
+    "typescript": "^4.5.0"
+  }
+}
